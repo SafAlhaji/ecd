@@ -1,0 +1,1 @@
+[13-Nov-2021 03:55:03 Asia/Riyadh] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/edc/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 776

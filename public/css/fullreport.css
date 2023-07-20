@@ -1,0 +1,23 @@
+.fullreport-selector {
+    margin-right: 10px;
+}
+
+.fullreport-selector .dropdown-menu {
+    padding: 10px;
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+.fullreport-selector .dropdown-menu ul {
+    padding: 0;
+}
+
+.fullreport-selector .dropdown-menu ul li {
+    margin: 0;
+}
+
+.fullreport-selector .dropdown-menu label {
+    width: 100%;
+    padding: 3px;
+}

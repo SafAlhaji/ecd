@@ -1,0 +1,23 @@
+.excel-selector {
+    margin-right: 10px;
+}
+
+.excel-selector .dropdown-menu {
+    padding: 10px;
+    height: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+}
+
+.excel-selector .dropdown-menu ul {
+    padding: 0;
+}
+
+.excel-selector .dropdown-menu ul li {
+    margin: 0;
+}
+
+.excel-selector .dropdown-menu label {
+    width: 100%;
+    padding: 3px;
+}
