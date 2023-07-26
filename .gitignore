@@ -52,4 +52,3 @@ dist-ssr
 # iconify dist files
 resources/js/@iconify/icons-bundle.js
 public/packages/
-public/vendor/
